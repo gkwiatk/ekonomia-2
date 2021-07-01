@@ -1,6 +1,6 @@
 ---
 title: Co to jest ekonomia?
-tags: Ekonomia jako nauka
+tags: "Ekonomia jako nauka"
 ---
 
 Ekonomia to nauka o gospodarce, o tym jak jakie mechanizmy nią rządzą, jak ona funkcjonuje i jak się zmienia. Jednak poprzestanie jedynie na takim stwierdzeniu (ekonomia to nauka o gospodarce) może wprawić czytelnika w lekką konfuzję.

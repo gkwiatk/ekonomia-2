@@ -1,7 +1,6 @@
 ---
-date: 2021-06-26T16:12
-tags:
-- strona
+title: Co to jest ekonomia?
+tags: Strona
 ---
 
 # Co to jest ekonomia?
@@ -12,6 +11,6 @@ Czym jest owa gospodarka?
 
 Możemy na to pytanie odpowiedzieć z co najmniej dwóch, bardzo różnych perspektyw.
 
-1. [[Gospodarka to radzenie sobie z niedoborem]]#
-2. [[Gospodarka to rzeczy w niewlasciwych miejscach]]#
+1. [[Gospodarka to radzenie sobie z niedoborem]]
+2. [[Gospodarka to rzeczy w niewlasciwych miejscach]]
 

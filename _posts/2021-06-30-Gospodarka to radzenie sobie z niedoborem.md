@@ -7,7 +7,7 @@ Zarówno analizując problemy ekonomiczne, jak i podejmując decyzje ekonomiczne
 * jak,
 * i dla kogo wytworzyć?
 
-[[2021-07-01-co-jak-dla-kogo::rmn-transclude]]
+[[Co, jak i dla kogo - przykład::rmn-transclude]]
 
 Ponieważ zasoby, są ograniczone, to musimy zdecydować, co z nich wytworzyć. 
 

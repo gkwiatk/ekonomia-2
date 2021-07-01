@@ -1,11 +1,15 @@
 ---
 layout: Post
-title: Spis treści 2
+title: Spis treści
 permalink: /spis/
 content-type: eg
 ---
 
-- Strona jest eksperymentem łączącym elementy podręcznika do ekonomii z koncepcją _digital garden_.
+Strona jest eksperymentem łączącym elementy podręcznika do ekonomii z koncepcją _digital garden_.
+
+Lekturę można rozpocząć od dowolnego tagu lub według spisu.
+
+[[Wzrost gospodarczy::/tags/#Wzrost-gospodarczy]]
 
 <br>
 <div>

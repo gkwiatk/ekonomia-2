@@ -1,6 +1,6 @@
 ---
 title: Instytucje wzrostu gospodarczego
-tags: Wzrost gospodarczy
+tags: Wzrost-gospodarczy
 ---
 
 Znaczenie słowa „instytucja” w ekonomii różni się od tego, którym posługujemy się w języku codziennym.

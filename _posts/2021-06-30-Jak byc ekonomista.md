@@ -1,6 +1,6 @@
 ---
 slug: jak-byc
-title: Jak być ekonomistą
+title: Jak-być-ekonomistą
 ---
 
 Często w podręcznikach ekonomicznych znajdziemy rozdział typu "Myśleć jak ekonomista" lub "Zostać ekonomistą". Zwykle umieszczony jest...

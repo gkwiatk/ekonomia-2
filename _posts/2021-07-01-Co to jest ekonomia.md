@@ -12,7 +12,7 @@ Możemy na to pytanie odpowiedzieć z co najmniej dwóch, bardzo różnych persp
 1. [[Gospodarka to radzenie sobie z niedoborem]]
 2. [[Gospodarka to rzeczy w niewlasciwych miejscach]]
 
-[[2021-06-30-Wprowadzenie|Wprowadzenie]]
+[[Wprowadzenie]]
 
 
 Fiszki:

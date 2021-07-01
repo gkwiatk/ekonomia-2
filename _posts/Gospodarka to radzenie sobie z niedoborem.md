@@ -1,8 +1,6 @@
 ---
-date: 2021-06-26T16:23
+title: Gospodarka to radzenie sobie z niedoborem
 ---
-
-# Gospodarka to radzenie sobie z niedoborem
 
 Zarówno analizując problemy ekonomiczne, jak i podejmując decyzje ekonomiczne, zmagamy się z problemem niedoboru. Chcielibyśmy, żeby rzeczy było więcej. Nie ma ich wystarczająco dużo, a więc musimy decydować:
 * co,

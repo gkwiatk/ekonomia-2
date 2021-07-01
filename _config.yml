@@ -45,7 +45,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: Digital garden textbook
+  name: Podręcznik do ekonomii + digital garden
 copyright: 
   year: 2021
   msg: GK # This is a mandatory attribute for copyright to be displayed
@@ -56,12 +56,12 @@ user:
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
   name: Grzegorz Kwiatkowski
-  bio: UMCS w Lublinie
+  bio: Nauczyciel akademicki, UMCS w Lublinie
   email: grzegorz.kwiatkowski@umcs.lublin.pl
   photo: /assets/img/profile.png
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
-    enabled: false  # turn this to true
+    enabled: true  # turn this to true
     twitter: gkwiatk
     github: gkwiatk 
     youtube: null 

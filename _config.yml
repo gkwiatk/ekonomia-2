@@ -55,7 +55,7 @@ user:
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: Raghuveer S
+  name: Grzegorz Kwiatkowski
   bio: Programmer ∪ Writer
   email: raghu-veer@outlook.com
   photo: /assets/img/profile.png

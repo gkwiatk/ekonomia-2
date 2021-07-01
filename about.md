@@ -1,13 +1,13 @@
 ---
 layout: Post
-title: About
+title: O stronie
 permalink: /about/
 content-type: eg
 ---
 
-- eksperyment
+- Strona jest eksperymentem łączącym elementy podręcznika do ekonomii z koncepcją _digital garden_.
 
-- code by [[Raghuveer S::https://simply-jekyll.netlify.app/]]
+- Wykorzystuje kod [[Raghuveer S::https://simply-jekyll.netlify.app/]]
 
 
 

@@ -2,3 +2,4 @@
 title: Co, jak i dla kogo - przykład
 ---
 
+Twoje zasoby są zatem bardzo ograniczone: masz do dyspozycji jedynie siłę swoich rąk, swój ograniczony czas, drzewa i otaczającą wyspę wodę, w której pływają ryby. Aby przetrwać, musisz podjąć szereg decyzji odnośnie do gospodarowania tymi ograniczonymi zasobami. Jeśli np. poświęcisz swój czas na łowienie ryb, to w tym samym czasie nie będziesz zbierał owoców. Łowienie ryb jest więc kosztem w odniesieniu do zbierania owoców i na odwrót. Załóżmy, że jesteś w stanie zebrać w ciągu godziny 60 owoców albo złowić 2 ryby. Tak więc, mówiąc językiem ekonomicznym, 1 ryba „kosztuje” 30 owoców. W ekonomii tego typu koszt określamy jako koszt alternatywny. Jeśli postanowisz ściąć drzewa owocowe, żeby zbudować z nich tratwę, to poświęcisz możliwość zbierania owoców w przyszłości!

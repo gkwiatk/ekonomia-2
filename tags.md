@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: By Tags
+title: Notatki według tagów
 permalink: /tags/
 content-type: eg
 ---

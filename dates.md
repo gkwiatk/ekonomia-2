@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: By Date
+title: Notatki według dat
 permalink: /dates/
 content-type: eg
 ---

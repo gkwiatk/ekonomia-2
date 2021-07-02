@@ -56,7 +56,7 @@ user:
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
   name: Grzegorz Kwiatkowski
-  bio: Nauczyciel akademicki, UMCS w Lublinie, autor podręcznika dla szkół średnich "Ekonomia w zarysie"
+  bio: Nauczyciel, UMCS w Lublinie, autor podręcznika "Ekonomia w zarysie"
   email: grzegorz.kwiatkowski@umcs.lublin.pl
   photo: /assets/img/profile.png
   social: # just leave the field blank or type in null, if you don't have a
